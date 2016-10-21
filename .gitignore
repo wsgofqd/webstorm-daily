@@ -4,3 +4,4 @@ dist/
 npm-debug.log
 *.iml
 .idea
+workspace.xml
